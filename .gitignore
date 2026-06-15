@@ -1,0 +1,28 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# IDE/editor files
+
+.idea/
+.vscode/
+
+# Logs and temporary files
+
+*.log
+*.tmp
+
+# Backup files
+
+*.bak
+*.swp
+
+# OS-generated thumbnails
+
+Thumbs.db
+
+# Optional local screenshots/drafts
+
+Screenshots/
+screenshots/
